@@ -1,7 +1,7 @@
 # BankAppAPI # - A Simple Banking System
 
 ## Overview ##
-This is a banking application built with ASP.NET Core. It allows an admin to open customer accounts with a bank account tied to them. Customers can open new savings accounts, make transactions, take loans, and more.
+This is a banking application built with ASP.NET Core. It allows an admin to open customer accounts with a bank account tied to them. Customers can open new savings accounts, make transactions, take out loans, and more.
 
 ## Tech Stack ##
   
